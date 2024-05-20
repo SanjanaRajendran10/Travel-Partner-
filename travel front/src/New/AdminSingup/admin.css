@@ -1,0 +1,17 @@
+.login-form{
+    border: 2px solid;
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+.login-form button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.bt-switch{
+    margin-top: 200px;
+    display: block;
+    margin:  auto;
+}

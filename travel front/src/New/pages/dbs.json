@@ -1,0 +1,80 @@
+{
+  "family": [
+    {
+      "place": "kovai",
+      "description": "seruvaani",
+      "image": "",
+      "id": "1"
+    },
+    {
+      "place": "pondichery",
+      "description": "drinks,smoke",
+      "image": "",
+      "id": "0a6d"
+    }
+  ],
+  "friends": [
+    {
+      "place": "mmmaa",
+      "description": "m",
+      "image": "aaa",
+      "id": "857b"
+    },
+    {
+      "place": "thirupur",
+      "description": "crowd,no buss",
+      "image": "",
+      "id": "451b"
+    },
+    {
+      "id": "ab0b",
+      "place": "",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "couples": [
+    {
+      "id": "afcc",
+      "place": "wayanad",
+      "image": "https://images.pexels.com/photos/8653130/pexels-photo-8653130.jpeg",
+      "description": "BEST PLACE"
+    },
+    {
+      "place": "kovai",
+      "description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "image": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": "b1b8"
+    },
+    {
+      "id": "6f04",
+      "place": "tamilnadu",
+      "image": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "super place"
+    },
+    {
+      "id": "011e",
+      "place": "karnataka",
+      "image": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "kanthara"
+    },
+    {
+      "id": "96d0",
+      "place": "trgungana",
+      "image": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "tillu2"
+    },
+    {
+      "id": "fed1",
+      "place": "maharastra",
+      "image": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "hariharafort"
+    },
+    {
+      "id": "969a",
+      "place": "kanchipuram",
+      "image": "https://images.pexels.com/photos/2161920/pexels-photo-2161920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "saree"
+    }
+  ]
+}

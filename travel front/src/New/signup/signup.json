@@ -1,0 +1,96 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "manoj",
+      "mail": "manoj@123",
+      "password": "mnao"
+    },
+    {
+      "id": "2891",
+      "name": "avinash",
+      "email": "manoj@123gmail.com",
+      "password": "mania"
+    },
+    {
+      "id": "c3ab",
+      "name": "manoj",
+      "email": "manoj16935@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e135",
+      "name": "muni",
+      "email": "muni@123gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a96d",
+      "name": "manoj",
+      "email": "manoj@123gmai.com",
+      "password": ""
+    },
+    {
+      "id": "5e8d",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "b3a5",
+      "name": "sam",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "4d90",
+      "name": "thamana",
+      "email": "tham123@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "dec1",
+      "name": "kaashi",
+      "email": "KAASHI123@GMAIL.COM",
+      "password": "1234"
+    },
+    {
+      "id": "274d",
+      "name": "AVI",
+      "email": "avi123@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "4419",
+      "name": "Naveen ",
+      "email": "nk@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "bfe9",
+      "name": "prakash",
+      "email": "prakash@12123gmail.com",
+      "password": "1234"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "manoj",
+      "email": "1234",
+      "password": "4321"
+    },
+    {
+      "id": "2",
+      "name": "avi",
+      "email": "1235",
+      "password": "5321"
+    },
+    {
+      "id": "3",
+      "name": "prakash",
+      "email": "1236",
+      "password": "6321"
+    }
+  ]
+}

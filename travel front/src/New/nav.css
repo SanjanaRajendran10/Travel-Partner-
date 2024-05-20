@@ -1,0 +1,22 @@
+.navbar{
+    justify-content: space-between;
+    background-color: none;
+}
+
+nav ul{
+    display: flex;
+    padding-top: 15px;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a {
+    /* color: white;     */
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    border-radius: 0.5rem;
+
+}
